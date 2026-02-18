@@ -30,6 +30,7 @@ Python
 TensorFlow
 Scikit-learn
 Git and GitHub
+<p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,mongodb,python,tensorflow,git,github" /> </p>
 
 Current Goals:
 Building MERN Stack projects

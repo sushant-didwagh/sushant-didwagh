@@ -1,7 +1,5 @@
-Hi, I'm Sushant Vithoba Didwagh
+<h1 align="center">Hi 👋, I'm Sushant Vithoba Didwagh</h1> <h3 align="center">B.Tech Computer Engineering Student | Full Stack Developer | Deep Learning & ML Enthusiast</h3>
 
-B.Tech Computer Engineering Student
-Full Stack Developer | Deep Learning & ML Enthusiast
 
 About Me:
 I am passionate about building scalable web applications and exploring Artificial Intelligence, Machine Learning and Deep Learning.

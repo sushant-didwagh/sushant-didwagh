@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Sushant Vithoba Didwagh
 
-<!--
-**sushant-didwagh/sushant-didwagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Engineering Student
+Full Stack Developer | Deep Learning & ML Enthusiast
 
-Here are some ideas to get you started:
+About Me:
+I am passionate about building scalable web applications and exploring Artificial Intelligence, Machine Learning and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on:
+Web Development (HTML, CSS, JavaScript, MERN Stack)
+Machine Learning
+Deep Learning
+Data Structures and Algorithms
+
+Domains of Interest:
+Web Development
+Machine Learning
+Deep Learning
+Artificial Intelligence
+
+Tech Stack:
+HTML
+CSS
+Bootstrap
+JavaScript
+React.js
+Node.js
+MongoDB
+Python
+TensorFlow
+Scikit-learn
+Git and GitHub
+
+Current Goals:
+Building MERN Stack projects
+Implementing Deep Learning models
+Strengthening DSA and problem solving
+Preparing for technical internships
+
+Connect With Me:
+LinkedIn:[ https://www.linkedin.com/in/sushant-didwagh-9bb1952b8/](https://www.linkedin.com/in/sushant-didwagh-9bb1952b8/)
+Email: sushantdidwagh0@gmail.com
